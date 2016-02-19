@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Taxonomy Locations feature.
+ */
+
+include_once 'taxonomy_locations.features.inc';
